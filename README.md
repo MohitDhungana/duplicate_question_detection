@@ -1,4 +1,4 @@
-# duplicate_question_detection
+# Duplicate Question Detection
 
 ## Dataset download link: 
 * http://qim.fs.quoracdn.net/quora_duplicate_questions.tsv
