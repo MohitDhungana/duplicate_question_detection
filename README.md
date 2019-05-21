@@ -3,6 +3,12 @@
 ## Dataset download link: 
 * http://qim.fs.quoracdn.net/quora_duplicate_questions.tsv
 
+### RNN and LSTM
+
+* http://karpathy.github.io/2015/05/21/rnn-effectiveness/
+* https://peterroelants.github.io/posts/rnn-implementation-part01/
+* https://en.wikipedia.org/wiki/Recurrent_neural_network
+* http://colah.github.io/posts/2015-08-Understanding-LSTMs/?fbclid=IwAR1y1uK2rldpNTWv4VAIDzb45ZkBOJEq8Fg1W_Aau0g8RLNwNLmaBfK-OvU
 
 ### Other resources:
 
