@@ -14,7 +14,11 @@
 
 * https://hub.packtpub.com/use-tensorflow-and-nlp-to-detect-duplicate-quora-questions-tutorial/?fbclid=IwAR01TdBmlHfOR_lUfbL7YvGbPRhlut7SuDLISgq6EI8Xj8msZtfJXKSq5pk
 
+
+COMPLICATED METHOD
 * https://github.com/aerdem4/kaggle-quora-dup?fbclid=IwAR25Re-WszL0CtkiTorsWpOJg7XiAn8gzk_jeAWTJnSHzH-CbgAOZ3GVO2c
+
+
 
 * https://medium.com/mlreview/implementing-malstm-on-kaggles-quora-question-pairs-competition-8b31b0b16a07?fbclid=IwAR0SPEFO9qaLACO-xRkBnEcSTySJESr1l1j1Ol8xnX56py2SiuGEw945dro
 
