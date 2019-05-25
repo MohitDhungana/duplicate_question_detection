@@ -24,3 +24,6 @@
 * http://cs230.stanford.edu/projects_fall_2018/reports/12447287.pdf?fbclid=IwAR3JlOV-ifVFu0-xaal2Ugg1adfWA6Uhf39-mTPg11WW-4AJ4YVR6GethPE
 * https://towardsdatascience.com/identifying-duplicate-questions-on-quora-top-12-on-kaggle-4c1cf93f1c30?fbclid=IwAR3fvuN2i0qx9i6ysSME9YFaIh3kxbL2haJxFJJKQofpX8t3E8FP0DqH-EE
 * https://www.geeksforgeeks.org/tf-idf-model-for-page-ranking/?fbclid=IwAR3LS3faRwFpu-tGK4DGxvQqrrjsi7_aY4RSVsQn9-aKM-syNQ0kewKCb2w
+
+
+https://medium.springboard.com/identifying-duplicate-questions-a-machine-learning-case-study-37117723844
