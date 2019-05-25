@@ -15,7 +15,6 @@
 * https://hub.packtpub.com/use-tensorflow-and-nlp-to-detect-duplicate-quora-questions-tutorial/?fbclid=IwAR01TdBmlHfOR_lUfbL7YvGbPRhlut7SuDLISgq6EI8Xj8msZtfJXKSq5pk
 
 
-COMPLICATED METHOD
 * https://github.com/aerdem4/kaggle-quora-dup?fbclid=IwAR25Re-WszL0CtkiTorsWpOJg7XiAn8gzk_jeAWTJnSHzH-CbgAOZ3GVO2c
 
 
