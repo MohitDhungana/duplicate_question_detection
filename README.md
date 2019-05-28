@@ -29,4 +29,8 @@ by Mamata
 * https://medium.springboard.com/identifying-duplicate-questions-a-machine-learning-case-study-37117723844
   (use transfer learning on word2vec in dataset?)
   
-*https://github.com/minsuk-heo/python_tutorial/blob/master/data_science/nlp/word2vec_tensorflow.ipynb
+* https://github.com/minsuk-heo/python_tutorial/blob/master/data_science/nlp/word2vec_tensorflow.ipynb
+
+by Mohit
+* https://colab.research.google.com/drive/1CXdKsk9mvHiuFMRowELp0NDP5__bsuVy#scrollTo=wYhaXSvYEcju
+  (sample code .ipynb)
