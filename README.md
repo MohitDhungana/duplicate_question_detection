@@ -1,7 +1,8 @@
 # Duplicate Question Detection
 
-## Dataset drive link
+## Dataset drive link(use "Add to my drive")
 * https://drive.google.com/open?id=1yhkq6c86vpmVp186fylqkzf5aowzbvSQ
+
 ## Dataset direct download link: 
 * http://qim.fs.quoracdn.net/quora_duplicate_questions.tsv
 
