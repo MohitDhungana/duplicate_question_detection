@@ -39,4 +39,4 @@ by Mohit
 * https://www.researchgate.net/publication/307558687_Siamese_Recurrent_Architectures_for_Learning_Sentence_Similarity
 (Siamese Recurrent Architectures for Learning Sentence Similarity research paper)
 * https://machinelearningmastery.com/keras-functional-api-deep-learning/
-keras functional API use example
+keras functional API usage example(THIS IS DOPE)
