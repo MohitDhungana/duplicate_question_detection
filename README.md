@@ -42,6 +42,7 @@ by Mohit
 keras functional API usage example(THIS IS DOPE)
 
 by Subin
-* need to add Project and Project/Pickle in My drive if you want to use SubindQd (note:the name should be in the specified combination of upper and lower case characters)
+* need to add Project and Project/Pickle in My drive if you want to use SubindQd (note:the name should be in the specified combination of upper and lower case characters) also need to change id
+
 
 
