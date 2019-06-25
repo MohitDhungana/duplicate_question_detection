@@ -1,8 +1,7 @@
 # Duplicate Question Detection
 
 ## Dataset drive link(use "Add to my drive")
-* https://drive.google.com/open?id=0B7XkCwpI5KDYNlNUTTlSS21pQmM
-
+* https://drive.google.com/open?id=1ZN9l2s_e8GIfTxhzAQjIsD1sbRQ3F2N0
 
 ### RNN and LSTM
 
