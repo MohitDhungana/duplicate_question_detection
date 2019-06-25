@@ -44,6 +44,7 @@ keras functional API usage example(THIS IS DOPE)
 by Subin
 * need to add Project and Project/Pickle in My drive if you want to use SubindQd (note:the name should be in the specified combination of upper and lower case characters) also need to change id
 * http://ruder.io/optimizing-gradient-descent/index.html#whichoptimizertochoose
+* https://ai.stackexchange.com/questions/3156/how-to-select-number-of-hidden-layers-and-number-of-memory-cells-in-an-lstm
 
 
 
