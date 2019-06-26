@@ -44,6 +44,8 @@ by Subin
 * http://ruder.io/optimizing-gradient-descent/index.html#whichoptimizertochoose
 * https://ai.stackexchange.com/questions/3156/how-to-select-number-of-hidden-layers-and-number-of-memory-cells-in-an-lstm
 * https://stats.stackexchange.com/questions/181/how-to-choose-the-number-of-hidden-layers-and-nodes-in-a-feedforward-neural-netw
+* https://medium.com/data-science-101/detecting-duplicate-questions-on-quora-beating-stanfords-accuracy-6f18b3634d06 (code that has beaten stanfords accuracy and ours till date)
+
 
 
 
