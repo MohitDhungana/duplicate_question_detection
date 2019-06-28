@@ -5,3 +5,12 @@ json = json.dumps(vocabulary)
 f = open("/content/drive/My Drive/vocabulary_dictionary.json","w")
 f.write(json)
 f.close()
+
+
+#TODO:
+for word in ques_list:
+  if word in vocabulary_dictionary.json:
+    #get value from above key
+  
+zero_pad(indexed_ques_list)
+feed to model
