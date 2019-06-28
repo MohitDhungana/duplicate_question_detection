@@ -1,0 +1,7 @@
+# save to .json 
+import json
+
+json = json.dumps(vocabulary)
+f = open("/content/drive/My Drive/vocabulary_dictionary.json","w")
+f.write(json)
+f.close()
