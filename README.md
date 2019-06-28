@@ -6,6 +6,9 @@
 ## Trained model file link (dqd_model_weights.h5)
 * https://drive.google.com/open?id=1HkKgfpW-3D8pnizMa47WzrHW07KHlNwQ
 
+## Vocabulary dictionary json file link (vocabulary_dictionary.json)
+* https://drive.google.com/open?id=1sDxz-5MVGtEBJGO_Hsby0SKSnJBP2KOb
+
 ### RNN and LSTM
 
 * http://karpathy.github.io/2015/05/21/rnn-effectiveness/
