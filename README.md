@@ -3,8 +3,8 @@
 ## Dataset drive link(use "Add to my drive")
 * https://drive.google.com/open?id=1ZN9l2s_e8GIfTxhzAQjIsD1sbRQ3F2N0
 
-## Trained model file link (dqd_model_weights.h5)
-* https://drive.google.com/open?id=1-2X1_bgZxFR5-cOv6oQQiNreM99dxkxo
+## Trained model file link (85DQD2.h5)
+* https://drive.google.com/open?id=1-3A9AvUrS_RHqDVy9SmVAEJPsU-Uoz0d
 
 ## Vocabulary dictionary json file link (vocabulary_dictionary.json)
 * https://drive.google.com/open?id=1sDxz-5MVGtEBJGO_Hsby0SKSnJBP2KOb
