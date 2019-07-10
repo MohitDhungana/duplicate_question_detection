@@ -9,6 +9,9 @@
 ## Vocabulary dictionary json file link (vocabulary_dictionary.json)
 * https://drive.google.com/open?id=1sDxz-5MVGtEBJGO_Hsby0SKSnJBP2KOb
 
+## Locally trained model (model_for_gui.h5):
+* https://drive.google.com/open?id=1aIXvw_-GnqqBk9HiIdQiGO-mNp2aeYzq
+
 ### RNN and LSTM
 
 * http://karpathy.github.io/2015/05/21/rnn-effectiveness/
