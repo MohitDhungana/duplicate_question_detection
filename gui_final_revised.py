@@ -16,7 +16,6 @@ import csv
 # list of questions
 filelist=[]
 filelist1=[]
-texts=['hello','hi','good morning','good afternoon','good night']
 
 ques_list_for_search = []
 original_questions = []
@@ -38,13 +37,16 @@ def compare_questions(q1):
                 # <call function to compare and pass question1 and row as question2>
                 is_duplicate, percent = result_prediction(
                     word_indexer(q1), word_indexer(q2))
-                if is_duplicate == 1:
+                if percent > 40:
                     # print("duplicates found:")
                     # print(q1[0])
                     # print(q2[0])
                     # print(" ")
-                    original_questions.append(q2[0])
-                    target_questions.append(q1[0])
+                    if q2[0] not in original_questions:
+                        original_questions.append(q2[0])
+
+                    if q1[0] not in target_questions:
+                        target_questions.append(q1[0])
                     # print(is_duplicate)
                     # flag = 1
         # if flag == 0:
@@ -169,7 +171,7 @@ vocab_dictionary = json.loads(data)
 
 
 
-####################################################################################################
+################################ 1 starts here ########################################################
 
 
 #WINDOW FOR DETECTION TWO ENTERED QUESTION 1
@@ -231,7 +233,7 @@ def open_window1():
     Button1.grid(row=6,column=1,sticky=E, pady=10)
     Button1.bind
 
-#######################################################################################################    
+################################ 2 starts here ########################################################    
 
 def onequewindow(param):
     param.destroy
@@ -318,18 +320,11 @@ def open_window2():
     Button1.grid(row=6,column=1,sticky=E, pady=10)
     Button1.bind
 
-#######################################################################################################
+################################ 3 starts here ########################################################
 
 def comp(param):
     param.destroy
     top = Toplevel()
-    top.title("Duplicate Question Detection With Existing Questions")
-    top.geometry('1350x750+0+0')
-    top.config(bg='powder blue')
-    Button1=Button(top, text="  Close  ",command=top.destroy,fg='red')  
-    Button1.place(bordermode=OUTSIDE, height=45, width=220, x=570,y=30)
-    Button1.bind
-
     # comparision starts here
     for i in range(0, len(filelist1)):
         with open(filelist1[i], 'r') as f:
@@ -345,6 +340,14 @@ def comp(param):
                 # print(len(original_questions))
                 # print(row)
                 # print(" ")
+    
+    top.title("Duplicate Question Detection With Existing Questions")
+    top.geometry('1350x750+0+0')
+    top.config(bg='powder blue')
+    Button1=Button(top, text="  Close  ",command=top.destroy,fg='red')  
+    Button1.place(bordermode=OUTSIDE, height=45, width=220, x=570,y=30)
+    Button1.bind
+
     
             
     lblTitle = Label(top,  text = 'Your result is :' , font = ('arial',30,'bold'), bg='powder blue',
@@ -370,12 +373,12 @@ def comp(param):
         List2.insert(i+1,'  '+target_questions[i])
     List2.place(x=700,y=200)
     List2.bind()
-    print(original_questions)
+    # print(original_questions)
     original_questions.clear()
-    print(target_questions)
+    # print(target_questions)
     target_questions.clear()
-    # filelist.clear()
-    # filelist1.clear()
+    filelist.clear()
+    filelist1.clear()
 
 
 
@@ -459,5 +462,5 @@ root.attributes('-fullscreen',True)
 # root.minsize(width=800,height=150)
 # root.maxsize(width=800,height=150)
 root.mainloop()
-print(filelist)
-print(filelist1)
+# print(filelist)
+# print(filelist1)
